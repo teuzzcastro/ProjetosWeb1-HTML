@@ -1,4 +1,4 @@
-# Projetos de Desenvolvimento Web 1 - Matheus de Castro e Marcilio Rodrigues
+# Projetos de Desenvolvimento Web 1 - Matheus de Castro
 
 ## Meus 7 Projetos 🚀
  - [Projeto 1 📝: Apresentação Pessoal](https://teuzreal.github.io/Projeto1-web1/)
@@ -17,6 +17,6 @@ Esse repositório tem o dever de reunir os sete projetos de <b>Desenvolvimento W
 </figure>
 
 ## Contato 👤
-📬 Email: matheus.castro09@aluno.ifce.edu.br & marcilio.nunes11@aluno.ifce.edu.br
+📬 Email: matheus.castro09@aluno.ifce.edu.br
 
-📞 Telefone: (85) 98622-2412 & (85) 98525-8693
+📞 Telefone: (85) 98622-2412
